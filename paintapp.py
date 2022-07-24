@@ -2,7 +2,7 @@ import turtle
 import random
 
 wn = turtle.Screen()
-wn.title("Paint Application")
+wn.title("Geeky Paint Application")
 
 turt = turtle.Turtle()
 
